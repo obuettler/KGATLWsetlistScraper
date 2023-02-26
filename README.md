@@ -12,6 +12,6 @@ The whole directory will then be saved at your preferred location as setlistColl
 
 `import setlistCollection.py`
 
-Don't forget to set your Path at the end of the script
+Don't forget to set your Path at the end of the script.
 
 
